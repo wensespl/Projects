@@ -11,7 +11,7 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
-#Face rotations
+# Face rotations
 
 * A single letter by itself refers to a clockwise face rotation in 90 degrees (quarter turn):
 F R U L B D

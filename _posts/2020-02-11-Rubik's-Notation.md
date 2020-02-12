@@ -20,6 +20,6 @@ redirect_from:
 * A letter with the number 2 after it marks a double turn (180 degrees):
   > F2  R2  U2  L2  B2  D2
 
-<a class="post-image" href="https://raw.githubusercontent.com/wencez432/Projects/gh-pages/assets/Rubik_Rotation.jpg">
-<img itemprop="image" data-src="https://raw.githubusercontent.com/wencez432/Projects/gh-pages/assets/Rubik_Rotation.jpg" src="/assets/javascripts/unveil/loader.gif" alt="Rubik's Rotation" />
+<a class="post-image" href="https://raw.githubusercontent.com/wencez432/Projects/gh-pages/images/Rubik_Rotation.jpg">
+<img itemprop="image" data-src="https://raw.githubusercontent.com/wencez432/Projects/gh-pages/images/Rubik_Rotation.jpg" src="/assets/javascripts/unveil/loader.gif" alt="Rubik's Rotation" />
 </a>

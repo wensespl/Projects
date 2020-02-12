@@ -14,10 +14,13 @@ redirect_from:
 # Face rotations
 
 * A single letter by itself refers to a clockwise face rotation in 90 degrees (quarter turn):
+
 F R U L B D
 
 * A letter followed by an apostrophe means to turn that face counterclockwise 90 degrees:
+
 F' R' U' L' B' D'
 
 * A letter with the number 2 after it marks a double turn (180 degrees):
+
 F2 R2 U2 L2 B2 D2

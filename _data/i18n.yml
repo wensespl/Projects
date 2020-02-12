@@ -21,7 +21,7 @@ en: &en
   search_results: 'Search results'
   share_post: 'Share Post:'
   show: 'Show'
-  show_author: 'https://github.com/wencez432'
+  show_author: 'Show Author'
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'

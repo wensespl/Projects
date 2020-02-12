@@ -23,3 +23,9 @@ redirect_from:
 <a class="post-image" href="https://raw.githubusercontent.com/wencez432/Projects/gh-pages/images/Rubik_Rotation.jpg">
 <img itemprop="image" data-src="https://raw.githubusercontent.com/wencez432/Projects/gh-pages/images/Rubik_Rotation.jpg" src="/assets/javascripts/unveil/loader.gif" alt="Rubik's Rotation" />
 </a>
+
+## Example
+
+An example algorithm R U R' U R U2 R' U
+
+# Cube Notation

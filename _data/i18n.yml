@@ -1,6 +1,7 @@
 en: &en
   about: 'About'
   articles: 'Articles'
+  author: 'Wenses Penadillo Lazares'
   back_to_top: 'Back to Top'
   categories: 'Categories'
   close: 'Close'
@@ -21,7 +22,7 @@ en: &en
   search_results: 'Search results'
   share_post: 'Share Post:'
   show: 'Show'
-  show_author: 'Wenses Penadillo Lazares' #Show Author
+  show_author: 'Show Author'
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'

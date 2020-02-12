@@ -20,6 +20,4 @@ redirect_from:
 * A letter with the number 2 after it marks a double turn (180 degrees):
   > F2  R2  U2  L2  B2  D2
 
-  <a class="post-image" href="/assets/Rubik_Rotation.jpg">
-  <img itemprop="image" data-src="/assets/Rubik_Rotation.jpg" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
-  </a>
+![Rubik's Rotation](/assets/Rubik_Rotation.jpg){:class="img-responsive"}
